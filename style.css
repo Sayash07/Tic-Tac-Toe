@@ -35,13 +35,13 @@ body{
     font-size: 8vmin;
     font-weight: 700;
     color:#b0413e;
-    background-color: #ffffc7;
+    background-color: #FFBF46;
 }
 
 .reset {
     padding: 1rem;
     font-size: 1.25rem;
-    background-color: #191913;
+    background-color: #232121;
     color: white;
     border-radius: 1rem;
     border: none;
@@ -51,7 +51,7 @@ body{
 .newGame {
     padding: 1rem;
     font-size: 1.25rem;
-    background-color: #191913;
+    background-color: #232121;
     color: white;
     border-radius: 1rem;
     border: none;
